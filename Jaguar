@@ -1,0 +1,8 @@
+Types of Repositories
+1). Bare Repositories(central)
+  a). Store & Share only
+  b). All central repositories are bare repositories
+
+2). Non-Bare Repositories(Local)
+  a). Where you can modify the files
+  b). All local/user repositories.
