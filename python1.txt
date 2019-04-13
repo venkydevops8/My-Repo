@@ -1,4 +1,4 @@
-.gitignore Hindi=int(input("Enter marks of the first subject:82"))
+Hindi=int(input("Enter marks of the first subject:82"))
 English=int(input("Enter marks of the second subject:86"))
 Mathematics=int(input("Enter marks of the third subject:91"))
 Science=int(input("Enter marks of the fourth subject:93"))
