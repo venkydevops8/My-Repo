@@ -6,3 +6,12 @@ Types of Repositories
 2). Non-Bare Repositories(Local)
   a). Where you can modify the files
   b). All local/user repositories.
+
+why only Git  ?
+
+- Speed
+   . snapshots concept
+-parellal branching
+   . multiple branches at a time unlike other SCM tools
+-fully distributed
+
